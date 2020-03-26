@@ -1,0 +1,27 @@
+{
+  "name": "studion",
+  "version": "0.0.1",
+  "description": "Homepage for studion provider and services ",
+  "main": "SRC/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielsilveira-dev/studion.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "JavaScript"
+  ],
+  "author": "Daniel Silveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielsilveira-dev/studion/issues"
+  },
+  "homepage": "https://github.com/danielsilveira-dev/studion#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
