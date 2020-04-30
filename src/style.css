@@ -115,7 +115,7 @@ ul{
 }
 .btn {
     cursor: pointer;
-    padding:1rem 2.5rem;
+    padding: 1rem 2.5rem;
     color: var(--color-primary);
     border: .125rem solid #fff;
     background: unset;
@@ -123,7 +123,7 @@ ul{
     font-size: .9375rem;
     font-weight: 700;
     text-transform: uppercase;
-    transition: 0.5s all ease;
+    transition: 0.3s all ease;
 }
 .btn:hover,
 .btn:active,
